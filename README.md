@@ -191,19 +191,6 @@ This ensures reproducibility across different machines.
 - Elhage, N., Nanda, N., Olsson, C., Schiefer, N., Henighan, T., Joseph, S., Mann, B., Askell, A., Bai, Y., Chen, A., Conerly, T., DasSarma, N., Drain, D., Elsheriff, M., Farhi, N., Ganguli, D., Gilson, A., Hernandez, D., Jones, A., Kaplan, J., Kernion, J., Lukošiūtė, K., Ndousse, K., Rauh, L., Rausch, S., Sal Voss, C., Schiefer, J., Schuhmann, D., Shanahan, M., Shen, X., Shoker, S., Sutawika, L., Talts, J., Taylor, J., Teufel, A., Tyson, Z., Viégas, F., Wang, J., Wang, J., Wark, C. & Zhang, Y. (2022). [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/). Transformer Circuits Thread.
 - Zhou, M., Wu, Y., Shi, Z., & Huang, Y. (2021). Towards efficient quantization-aware training. arXiv preprint arXiv:2104.14294.
 
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@misc{qat_superposition_2024,
-  title={Superposition with Weight Quantization: A Toy Model Study},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/qat-superposition}
-}
-```
-
 ## License
 
 MIT License - See LICENSE file for details.
