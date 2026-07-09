@@ -1,0 +1,482 @@
+[
+  {
+    "precision": "fp32",
+    "sparsity": 0.0,
+    "seed": 0,
+    "final_loss": 0.029574373736977577,
+    "mean_dimensionality": 0.10163740813732147,
+    "median_dimensionality": 0.08453923463821411,
+    "total_interference": 0.22227270901203156,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.0,
+    "seed": 1,
+    "final_loss": 0.02856558933854103,
+    "mean_dimensionality": 0.10495506227016449,
+    "median_dimensionality": 0.09538861364126205,
+    "total_interference": 0.21281100809574127,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.5,
+    "seed": 0,
+    "final_loss": 0.024908313527703285,
+    "mean_dimensionality": 0.1131114736199379,
+    "median_dimensionality": 0.06776604801416397,
+    "total_interference": 0.23096849024295807,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.5,
+    "seed": 1,
+    "final_loss": 0.02525673247873783,
+    "mean_dimensionality": 0.11880622804164886,
+    "median_dimensionality": 0.08629177510738373,
+    "total_interference": 0.2200189083814621,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.7,
+    "seed": 0,
+    "final_loss": 0.015560528263449669,
+    "mean_dimensionality": 0.11794121563434601,
+    "median_dimensionality": 0.06925912201404572,
+    "total_interference": 0.23020464181900024,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.7,
+    "seed": 1,
+    "final_loss": 0.015324706211686134,
+    "mean_dimensionality": 0.12271709740161896,
+    "median_dimensionality": 0.0811048075556755,
+    "total_interference": 0.22092974185943604,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.85,
+    "seed": 0,
+    "final_loss": 0.006485080812126398,
+    "mean_dimensionality": 0.12273000180721283,
+    "median_dimensionality": 0.04422217234969139,
+    "total_interference": 0.24407103657722473,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.85,
+    "seed": 1,
+    "final_loss": 0.006600984837859869,
+    "mean_dimensionality": 0.12443464994430542,
+    "median_dimensionality": 0.07146817445755005,
+    "total_interference": 0.2208227962255478,
+    "active_feature_fraction": 0.9750000238418579
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.9,
+    "seed": 0,
+    "final_loss": 0.003756251884624362,
+    "mean_dimensionality": 0.12353934347629547,
+    "median_dimensionality": 0.05108796805143356,
+    "total_interference": 0.24734580516815186,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.9,
+    "seed": 1,
+    "final_loss": 0.00400232058018446,
+    "mean_dimensionality": 0.12454484403133392,
+    "median_dimensionality": 0.07457532733678818,
+    "total_interference": 0.2102741003036499,
+    "active_feature_fraction": 0.9750000238418579
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.95,
+    "seed": 0,
+    "final_loss": 0.0015975898131728172,
+    "mean_dimensionality": 0.12397807836532593,
+    "median_dimensionality": 0.047027211636304855,
+    "total_interference": 0.22916600108146667,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.95,
+    "seed": 1,
+    "final_loss": 0.0017265230417251587,
+    "mean_dimensionality": 0.12462852150201797,
+    "median_dimensionality": 0.0710410475730896,
+    "total_interference": 0.20319198071956635,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.98,
+    "seed": 0,
+    "final_loss": 0.0005335028399713337,
+    "mean_dimensionality": 0.12405328452587128,
+    "median_dimensionality": 0.058586832135915756,
+    "total_interference": 0.2070835828781128,
+    "active_feature_fraction": 0.9750000238418579
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.98,
+    "seed": 1,
+    "final_loss": 0.0005671478575095534,
+    "mean_dimensionality": 0.12451756000518799,
+    "median_dimensionality": 0.08009105175733566,
+    "total_interference": 0.1986895501613617,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.99,
+    "seed": 0,
+    "final_loss": 0.00025408208603039384,
+    "mean_dimensionality": 0.12395284324884415,
+    "median_dimensionality": 0.07576931267976761,
+    "total_interference": 0.19627085328102112,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "fp32",
+    "sparsity": 0.99,
+    "seed": 1,
+    "final_loss": 0.00024639422190375626,
+    "mean_dimensionality": 0.12434027343988419,
+    "median_dimensionality": 0.09249896556138992,
+    "total_interference": 0.19689954817295074,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.0,
+    "seed": 0,
+    "final_loss": 0.033961959183216095,
+    "mean_dimensionality": 0.11313432455062866,
+    "median_dimensionality": 0.10094159841537476,
+    "total_interference": 0.19994835555553436,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.0,
+    "seed": 1,
+    "final_loss": 0.025783559307456017,
+    "mean_dimensionality": 0.11517910659313202,
+    "median_dimensionality": 0.09566424787044525,
+    "total_interference": 0.1952916532754898,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.5,
+    "seed": 0,
+    "final_loss": 0.024236923083662987,
+    "mean_dimensionality": 0.12102774530649185,
+    "median_dimensionality": 0.08564245700836182,
+    "total_interference": 0.19665420055389404,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.5,
+    "seed": 1,
+    "final_loss": 0.02454202249646187,
+    "mean_dimensionality": 0.12135966867208481,
+    "median_dimensionality": 0.07940424233675003,
+    "total_interference": 0.20746757090091705,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.7,
+    "seed": 0,
+    "final_loss": 0.015552309341728687,
+    "mean_dimensionality": 0.11842596530914307,
+    "median_dimensionality": 0.06028272211551666,
+    "total_interference": 0.20693980157375336,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.7,
+    "seed": 1,
+    "final_loss": 0.014921332709491253,
+    "mean_dimensionality": 0.12168478965759277,
+    "median_dimensionality": 0.05884180963039398,
+    "total_interference": 0.21307335793972015,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.85,
+    "seed": 0,
+    "final_loss": 0.006811083760112524,
+    "mean_dimensionality": 0.1217229962348938,
+    "median_dimensionality": 0.04726949334144592,
+    "total_interference": 0.19890527427196503,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.85,
+    "seed": 1,
+    "final_loss": 0.006889011710882187,
+    "mean_dimensionality": 0.12191914021968842,
+    "median_dimensionality": 0.06493964791297913,
+    "total_interference": 0.20401175320148468,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.9,
+    "seed": 0,
+    "final_loss": 0.004002065863460302,
+    "mean_dimensionality": 0.12233266979455948,
+    "median_dimensionality": 0.03910156339406967,
+    "total_interference": 0.21353811025619507,
+    "active_feature_fraction": 0.925000011920929
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.9,
+    "seed": 1,
+    "final_loss": 0.004020921885967255,
+    "mean_dimensionality": 0.12283942848443985,
+    "median_dimensionality": 0.054052792489528656,
+    "total_interference": 0.1935131996870041,
+    "active_feature_fraction": 0.949999988079071
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.95,
+    "seed": 0,
+    "final_loss": 0.0019431511173024774,
+    "mean_dimensionality": 0.12047652900218964,
+    "median_dimensionality": 0.046803344041109085,
+    "total_interference": 0.20767343044281006,
+    "active_feature_fraction": 0.949999988079071
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.95,
+    "seed": 1,
+    "final_loss": 0.0018519200384616852,
+    "mean_dimensionality": 0.1223112940788269,
+    "median_dimensionality": 0.04871625080704689,
+    "total_interference": 0.20212429761886597,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.98,
+    "seed": 0,
+    "final_loss": 0.0006850348436273634,
+    "mean_dimensionality": 0.12204708904027939,
+    "median_dimensionality": 0.06448319554328918,
+    "total_interference": 0.1984565556049347,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.98,
+    "seed": 1,
+    "final_loss": 0.0006233957828953862,
+    "mean_dimensionality": 0.12308952957391739,
+    "median_dimensionality": 0.07139214128255844,
+    "total_interference": 0.1982460767030716,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.99,
+    "seed": 0,
+    "final_loss": 0.0003271019086241722,
+    "mean_dimensionality": 0.12343903630971909,
+    "median_dimensionality": 0.08987545222043991,
+    "total_interference": 0.192647784948349,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "ternary",
+    "sparsity": 0.99,
+    "seed": 1,
+    "final_loss": 0.0002929861657321453,
+    "mean_dimensionality": 0.12131359428167343,
+    "median_dimensionality": 0.08195576816797256,
+    "total_interference": 0.1948344111442566,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.0,
+    "seed": 0,
+    "final_loss": 0.03208880499005318,
+    "mean_dimensionality": 0.12138549983501434,
+    "median_dimensionality": 0.10533178597688675,
+    "total_interference": 0.19753845036029816,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.0,
+    "seed": 1,
+    "final_loss": 0.020998947322368622,
+    "mean_dimensionality": 0.12112679332494736,
+    "median_dimensionality": 0.0906478762626648,
+    "total_interference": 0.18810254335403442,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.5,
+    "seed": 0,
+    "final_loss": 0.022443223744630814,
+    "mean_dimensionality": 0.12313566356897354,
+    "median_dimensionality": 0.06314343959093094,
+    "total_interference": 0.1954871565103531,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.5,
+    "seed": 1,
+    "final_loss": 0.021811237558722496,
+    "mean_dimensionality": 0.12179087102413177,
+    "median_dimensionality": 0.07266712933778763,
+    "total_interference": 0.19425639510154724,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.7,
+    "seed": 0,
+    "final_loss": 0.013526782393455505,
+    "mean_dimensionality": 0.11976361274719238,
+    "median_dimensionality": 0.044011037796735764,
+    "total_interference": 0.18851278722286224,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.7,
+    "seed": 1,
+    "final_loss": 0.013556746765971184,
+    "mean_dimensionality": 0.12276369333267212,
+    "median_dimensionality": 0.04898779094219208,
+    "total_interference": 0.21599997580051422,
+    "active_feature_fraction": 0.949999988079071
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.85,
+    "seed": 0,
+    "final_loss": 0.005985193885862827,
+    "mean_dimensionality": 0.1245124489068985,
+    "median_dimensionality": 0.028859460726380348,
+    "total_interference": 0.19384616613388062,
+    "active_feature_fraction": 0.925000011920929
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.85,
+    "seed": 1,
+    "final_loss": 0.006540617439895868,
+    "mean_dimensionality": 0.12188352644443512,
+    "median_dimensionality": 0.03183489292860031,
+    "total_interference": 0.1905640810728073,
+    "active_feature_fraction": 0.925000011920929
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.9,
+    "seed": 0,
+    "final_loss": 0.0038149957545101643,
+    "mean_dimensionality": 0.12056325376033783,
+    "median_dimensionality": 0.02288360707461834,
+    "total_interference": 0.1958974003791809,
+    "active_feature_fraction": 0.949999988079071
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.9,
+    "seed": 1,
+    "final_loss": 0.004011590965092182,
+    "mean_dimensionality": 0.12156756222248077,
+    "median_dimensionality": 0.033356357365846634,
+    "total_interference": 0.19794869422912598,
+    "active_feature_fraction": 0.949999988079071
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.95,
+    "seed": 0,
+    "final_loss": 0.0016045032534748316,
+    "mean_dimensionality": 0.12357703596353531,
+    "median_dimensionality": 0.032158974558115005,
+    "total_interference": 0.19138459861278534,
+    "active_feature_fraction": 0.9750000238418579
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.95,
+    "seed": 1,
+    "final_loss": 0.0021488582715392113,
+    "mean_dimensionality": 0.12014864385128021,
+    "median_dimensionality": 0.05586417019367218,
+    "total_interference": 0.1930256187915802,
+    "active_feature_fraction": 0.9750000238418579
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.98,
+    "seed": 0,
+    "final_loss": 0.0005071173654869199,
+    "mean_dimensionality": 0.12424411624670029,
+    "median_dimensionality": 0.030245931819081306,
+    "total_interference": 0.1930256187915802,
+    "active_feature_fraction": 0.9750000238418579
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.98,
+    "seed": 1,
+    "final_loss": 0.0007246527820825577,
+    "mean_dimensionality": 0.12302523851394653,
+    "median_dimensionality": 0.036516644060611725,
+    "total_interference": 0.1958974152803421,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.99,
+    "seed": 0,
+    "final_loss": 0.00024889790802262723,
+    "mean_dimensionality": 0.12449532747268677,
+    "median_dimensionality": 0.06170564517378807,
+    "total_interference": 0.19794870913028717,
+    "active_feature_fraction": 1.0
+  },
+  {
+    "precision": "binary",
+    "sparsity": 0.99,
+    "seed": 1,
+    "final_loss": 0.0003233327006455511,
+    "mean_dimensionality": 0.12308964878320694,
+    "median_dimensionality": 0.05521785467863083,
+    "total_interference": 0.19138459861278534,
+    "active_feature_fraction": 1.0
+  }
+]

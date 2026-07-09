@@ -1,0 +1,146 @@
+[
+  {
+    "sparsity": 0.0,
+    "mode": "ternary",
+    "ptq_loss": 0.03780674934387207,
+    "fp32_loss_same_weights": 0.029574373736977577,
+    "loss_degradation_ratio": 1.2783617898424455,
+    "mean_dimensionality": 0.1119329184293747,
+    "total_interference": 0.20400643348693848
+  },
+  {
+    "sparsity": 0.0,
+    "mode": "binary",
+    "ptq_loss": 0.0353815034031868,
+    "fp32_loss_same_weights": 0.029574373736977577,
+    "loss_degradation_ratio": 1.196356809373394,
+    "mean_dimensionality": 0.12186046689748764,
+    "total_interference": 0.19835898280143738
+  },
+  {
+    "sparsity": 0.5,
+    "mode": "ternary",
+    "ptq_loss": 0.027340874075889587,
+    "fp32_loss_same_weights": 0.024908313527703285,
+    "loss_degradation_ratio": 1.097660588119737,
+    "mean_dimensionality": 0.1055227518081665,
+    "total_interference": 0.23097403347492218
+  },
+  {
+    "sparsity": 0.5,
+    "mode": "binary",
+    "ptq_loss": 0.027935892343521118,
+    "fp32_loss_same_weights": 0.024908313527703285,
+    "loss_degradation_ratio": 1.121548928330717,
+    "mean_dimensionality": 0.11253980547189713,
+    "total_interference": 0.2213333398103714
+  },
+  {
+    "sparsity": 0.7,
+    "mode": "ternary",
+    "ptq_loss": 0.01623564213514328,
+    "fp32_loss_same_weights": 0.015560528263449669,
+    "loss_degradation_ratio": 1.0433863079879746,
+    "mean_dimensionality": 0.1173357367515564,
+    "total_interference": 0.20864497125148773
+  },
+  {
+    "sparsity": 0.7,
+    "mode": "binary",
+    "ptq_loss": 0.01660025119781494,
+    "fp32_loss_same_weights": 0.015560528263449669,
+    "loss_degradation_ratio": 1.06681797152141,
+    "mean_dimensionality": 0.11550501734018326,
+    "total_interference": 0.20041023194789886
+  },
+  {
+    "sparsity": 0.85,
+    "mode": "ternary",
+    "ptq_loss": 0.007250603288412094,
+    "fp32_loss_same_weights": 0.006485080812126398,
+    "loss_degradation_ratio": 1.1180436294416334,
+    "mean_dimensionality": 0.11865647882223129,
+    "total_interference": 0.21754807233810425
+  },
+  {
+    "sparsity": 0.85,
+    "mode": "binary",
+    "ptq_loss": 0.007651572115719318,
+    "fp32_loss_same_weights": 0.006485080812126398,
+    "loss_degradation_ratio": 1.1798730559242543,
+    "mean_dimensionality": 0.1122063547372818,
+    "total_interference": 0.22338460385799408
+  },
+  {
+    "sparsity": 0.9,
+    "mode": "ternary",
+    "ptq_loss": 0.004541686736047268,
+    "fp32_loss_same_weights": 0.003756251884624362,
+    "loss_degradation_ratio": 1.209100687479975,
+    "mean_dimensionality": 0.11780114471912384,
+    "total_interference": 0.2159811407327652
+  },
+  {
+    "sparsity": 0.9,
+    "mode": "binary",
+    "ptq_loss": 0.004728197120130062,
+    "fp32_loss_same_weights": 0.003756251884624362,
+    "loss_degradation_ratio": 1.2587540094114051,
+    "mean_dimensionality": 0.11380082368850708,
+    "total_interference": 0.2184615284204483
+  },
+  {
+    "sparsity": 0.95,
+    "mode": "ternary",
+    "ptq_loss": 0.0020106909796595573,
+    "fp32_loss_same_weights": 0.0015975898131728172,
+    "loss_degradation_ratio": 1.2585777419714015,
+    "mean_dimensionality": 0.11718062311410904,
+    "total_interference": 0.2127368301153183
+  },
+  {
+    "sparsity": 0.95,
+    "mode": "binary",
+    "ptq_loss": 0.0021691061556339264,
+    "fp32_loss_same_weights": 0.0015975898131728172,
+    "loss_degradation_ratio": 1.3577365965585848,
+    "mean_dimensionality": 0.1074696034193039,
+    "total_interference": 0.2352820634841919
+  },
+  {
+    "sparsity": 0.98,
+    "mode": "ternary",
+    "ptq_loss": 0.0007218824466690421,
+    "fp32_loss_same_weights": 0.0005335028399713337,
+    "loss_degradation_ratio": 1.3530995387162894,
+    "mean_dimensionality": 0.11742661893367767,
+    "total_interference": 0.2025178223848343
+  },
+  {
+    "sparsity": 0.98,
+    "mode": "binary",
+    "ptq_loss": 0.000804404728114605,
+    "fp32_loss_same_weights": 0.0005335028399713337,
+    "loss_degradation_ratio": 1.5077796552270037,
+    "mean_dimensionality": 0.1175493597984314,
+    "total_interference": 0.19917947053909302
+  },
+  {
+    "sparsity": 0.99,
+    "mode": "ternary",
+    "ptq_loss": 0.0003373528888914734,
+    "fp32_loss_same_weights": 0.00025408208603039384,
+    "loss_degradation_ratio": 1.3277318923267913,
+    "mean_dimensionality": 0.12173683941364288,
+    "total_interference": 0.19841346144676208
+  },
+  {
+    "sparsity": 0.99,
+    "mode": "binary",
+    "ptq_loss": 0.0003944291383959353,
+    "fp32_loss_same_weights": 0.00025408208603039384,
+    "loss_degradation_ratio": 1.552368939338576,
+    "mean_dimensionality": 0.11646214872598648,
+    "total_interference": 0.19220510125160217
+  }
+]
